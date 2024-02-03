@@ -7,7 +7,7 @@
 
 This code helps automate the process of sending mail to large audience.It takes email addresses stored in the CSV file.
 
-## ⚙️ Languages or Frameworks Used
+## ⚙️ Languages or Frameworks used
 
 Modules required are `os` , `email.mime` , `smtplib` , `pandas`.
 
